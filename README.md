@@ -33,7 +33,7 @@ Usage
 
 2. Navigate to the project directory:
    ```bash
-   cd s3-bucket-website
+   cd Terraform-s3-website
    ```
 
 3. Update `variables.tf` with your desired values, including `s3_bucket_name`.
